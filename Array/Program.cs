@@ -10,7 +10,7 @@ namespace Array
     {
         static void Main(string[] args)
         {
-            int A = 10;
+            int A = 15;
             int[] Numeri = new int[A];
 
             for (int i = 0; i < A; i++)
